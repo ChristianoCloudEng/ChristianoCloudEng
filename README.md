@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there my name's Christian and I'm working to become a cloud engineer 👋
 
 <!--
 **ChristianoCloudEng/ChristianoCloudEng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
